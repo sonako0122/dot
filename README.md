@@ -1,5 +1,10 @@
 # dot
 *Some dotflies files for everyday linux use*
+<u>System shot</u>
+![shot](photo_2025-07-10_23-49-21.jpg)
+
+* theme: catppuccin-pink
+* icons: papirus
 --
 Current system configuration
 ```system info
