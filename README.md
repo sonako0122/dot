@@ -5,7 +5,9 @@
 
 * theme: catppuccin-pink
 * icons: papirus
+
 --
+
 Current system configuration
 ```system info
 Arch Linux x86_64
