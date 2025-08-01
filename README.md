@@ -1,5 +1,5 @@
 ## hyprland dotfiles
-![shot](sreenshot/shot.png)
+![shot](screenshot/shot.png)
 
 # info
 built against:
